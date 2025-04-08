@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a passionated Web Developer, ML enthusiasts & cutting-edge tech explorer</h3>
+<h3 align="center">I'm a passionated Python Web Developer, ML enthusiasts & cutting-edge tech explorer</h3>
 
 ###
 
