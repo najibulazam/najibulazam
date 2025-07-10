@@ -1,6 +1,6 @@
 <h2 align="center">Hello👋! This is Najib</h2>
 
-<h3 align="center">I'm a passionate Python Web Developer, ML enthusiast & cutting-edge tech explorer</h3>
+<h3 align="center">I'm a passionate Python Developer, Django Developer, AI & ML enthusiast, & cutting-edge tech explorer</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najibulazam&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
