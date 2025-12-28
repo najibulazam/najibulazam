@@ -1,83 +1,162 @@
-<h2 align="center">Hello👋! This is Najib</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Md+Najib+Ul+Azam+Mahi;Full+Stack+Developer+%7C+AI+Engineer;Python+%7C+Django+%7C+React+%7C+FastAPI;Building+AI-Powered+Web+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<h3 align="center">I'm a passionate Python Developer, Django Developer, AI & ML enthusiast, & cutting-edge tech explorer</h3><br>
+<div align="right">
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="200" alt="Coding"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=najibulazam&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <br/>
 
-<!-- Tech Stack Icons Split in 2 Rows -->
+## 🚀 Quick Intro
+
+```python
+dev = {
+    "name": "Md Najib Ul Azam Mahi",
+    "role": "Full Stack Developer & AI Engineer",
+    "location": "Dinajpur, Bangladesh",
+    "focus": ["Django", "FastAPI", "React", "AI/ML", "RAG Systems"],
+    "currently": "Building AI-powered web solutions 🤖"
+}
+```
+
 <div align="center">
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    <!-- First row -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px;" alt="python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:30px;" alt="js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:30px;" alt="ts" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:30px;" alt="react" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px;" alt="html" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px;" alt="css" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:30px;" alt="cpp" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:30px;" alt="c" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:30px;" alt="bootstrap" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:30px;" alt="arduino" />
-  </p>
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-    <!-- Second row -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="height:30px;" alt="azure" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" style="height:30px;" alt="cmake" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="height:30px;" alt="django" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:30px;" alt="docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height:30px;" alt="flutter" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:30px;" alt="figma" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="height:30px;" alt="gcloud" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height:30px;" alt="mongodb" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px;" alt="linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="height:30px;" alt="matlab" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="height:30px;" alt="markdown" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:30px;" alt="mysql" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:30px;" alt="nodejs" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:30px;" alt="numpy" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="height:30px;" alt="tensorflow" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:30px;" alt="vscode" />
-  </p>
+
+### [<img src="dev-logo-najib.png" width="20" alt="Portfolio" style="vertical-align: middle;"/> Check Out My Portfolio →](https://dev-najib.netlify.app/)
+
 </div>
 
 <br/>
 
-<!-- GIF and Socials Aligned -->
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+## 🛠️ Tech Stack
 
-  <!-- Smaller GIF -->
-  <img height="200" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="coding gif"/>
+<div align="center">
 
-  <br/>
+**Backend:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-  <!-- Social Icons Side by Side -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://www.facebook.com/itsnajibul" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30"/>
-    </a>
-    <a href="https://www.instagram.com/its_n_a_j_i_b/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30"/>
-    </a>
-    <a href="https://www.linkedin.com/in/najibulazam/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
-    </a>
-    <a href="mailto:najibul.me@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30"/>
-    </a>
-    <a href="https://discord.com/users/itsnajibul" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30"/>
-    </a>
-    <a href="https://t.me/itsnajibul" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="30"/>
-    </a>
-    <a href="https://www.behance.net/itsnajibul" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&style=for-the-badge" height="30"/>
-    </a>
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="30"/>
-  </div>
+**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**AI/ML:** ![Groq](https://img.shields.io/badge/-Groq_LLaMA-FF6F00?style=flat-square&logo=meta&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=najibulazam&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najibulazam&theme=radical" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=najibulazam&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=najibulazam&theme=radical" alt="Most Used Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=najibulazam&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=najibulazam&theme=radical" alt="Productive Time" />
+</div>
+
+<br/>
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce with AI Chatbot
+RAG-powered shopping assistant with semantic search
+
+**Stack:** Django REST, React, PostgreSQL, LLaMA 70B
+
+[![Demo](https://img.shields.io/badge/🎥-Demo-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=nmiAoFS4qHA) [![Repo](https://img.shields.io/badge/📂-Repo-black?style=flat-square&logo=github)](https://github.com/najibulazam/Organic-E-Commerce-Store-with-RAG-AI-Chatbot)
+
+</td>
+<td width="50%">
+
+### 🤖 AI Resume Screener
+Multi-agent system for automated hiring
+
+**Stack:** FastAPI, React, Multi-Agent AI, NLP
+
+[![Demo](https://img.shields.io/badge/🎥-Demo-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=hLPt59CWvtM) [![Repo](https://img.shields.io/badge/📂-Repo-black?style=flat-square&logo=github)](https://github.com/najibulazam/AI-Powered-Resume-Screening-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗳️ AI Voting System
+Secure voting with AI analytics & predictions
+
+**Stack:** Django REST, React, JWT, LLaMA
+
+[![Demo](https://img.shields.io/badge/🎥-Demo-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=aLXKEUvnah4) [![Repo](https://img.shields.io/badge/📂-Repo-black?style=flat-square&logo=github)](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
+
+</td>
+<td width="50%">
+
+### 💼 Developer Portfolio
+Modern portfolio with animated backgrounds
+
+**Stack:** React 19, Vite, Tailwind CSS 4
+
+[![Live](https://img.shields.io/badge/🌐-Live-00C7B7?style=flat-square&logo=netlify)](https://md-najib-ul-azam.netlify.app/) [![Repo](https://img.shields.io/badge/📂-Repo-black?style=flat-square&logo=github)](https://github.com/najibulazam/Najib-Portfolio)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najibulazam/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itsnajibul)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azam.mdnajibul.me@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsnajibul)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801978264938)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=najibulazam&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+<div align="center">
+  
+### 💡 *"Talk is cheap. Show me the code."* – Linus Torvalds
+
+**⚡ Fun Fact:** My code works, I have no idea why. My code breaks, I have no idea why. Welcome to programming! 🤷‍♂️
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
