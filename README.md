@@ -1,43 +1,55 @@
 <div align="center">
-  
-  <img src="dev-logo-najib.svg" width="50" alt="Dev Logo" />
-  
+
   # Md Najib Ul Azam Mahi
-  
-  <h3>Full Stack Developer • AI Systems Engineer</h3>
-  
+
+  <h3>Final Year ECE Student | Hardware, Embedded Systems & Technology Enthusiast</h3>
+
   <p>
-    <a href="https://najibulazam.dev/">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-najibulazam.dev-4F46E5?style=flat-square&logoColor=white" alt="Portfolio" />
-    </a>
+    Building across electronics, embedded systems, networking, and practical software tools.
+  </p>
+
+  <p>
     <a href="https://www.linkedin.com/in/najibulazam/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:azam.mdnajibul.me@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://najibulazam.dev/">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
   </p>
-  
+
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Electronics%20%26%20Communication-2563EB?style=flat-square" alt="ECE Focus" />
+    <img src="https://img.shields.io/badge/Interest-Embedded%20Systems-F59E0B?style=flat-square" alt="Embedded Systems" />
+    <img src="https://img.shields.io/badge/Interest-VLSI%20%26%20Signals-10B981?style=flat-square" alt="VLSI and Signals" />
+  </p>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
+
 </div>
 
 <br>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**💼 Current Focus**
+## About Me
 
-Building production web applications with Django and FastAPI. Working with LLM-based systems including RAG architectures and multi-agent workflows.
+I am a final-year Electronics and Communication Engineering student at HSTU with a strong interest in hardware, embedded systems, signal processing, VLSI, and networking. My journey started with computer hardware, motherboard troubleshooting, assembling parts, and supporting local tech problems. Over time, I expanded into programming, IoT, and practical engineering projects.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎯 Specialization**
+## Current Focus
 
-Experience integrating large language models into transactional systems with focus on semantic search and NLP pipelines.
+- Final-year thesis interests in VLSI, signal processing, IoT, and networking
+- Embedded development with Arduino and ESP32
+- Building a stronger foundation in hardware and communication systems
+- Supporting technical events, clubs, and team activities
+- Using software tools where they help engineering work move faster
 
 </td>
 </tr>
@@ -45,35 +57,46 @@ Experience integrating large language models into transactional systems with foc
 
 <br>
 
-## 🛠️ Skills & Expertise
+## Education
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**B.Sc. (Engineering) in Electronics and Communication Engineering**  
+Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur  
+Duration: January 2023 - Present
+
+**Key Courses:** Electronics, Semiconductor Devices, VLSI Technology, Signals and Systems, Digital Signal Processing, Analog and Digital Communications, Electromagnetic Fields and Antennas, Microwave Engineering, Wireless and Optical Communications, Computer Networks, Microprocessors and Embedded Systems, Control Systems, Artificial Intelligence and Neural Networks, Machine Learning, Cryptography and Cyber Security, Web Engineering, and Database Systems.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Backend Development**
-- 🐍 Django, Django REST Framework, FastAPI
-- 🗄️ PostgreSQL, MongoDB, Redis
-- 🔐 RESTful APIs, JWT, OAuth2
-
-**DevOps & Tools**
-- 🐳 Docker, Docker Compose
-- 🔧 Git, GitHub, CI/CD
-- 🐧 Linux, PostgreSQL optimization
+**Technical Skills**
+- **Programming:** Python, JavaScript, C, C++
+- **Embedded Systems:** Arduino, ESP32, IoT basics
+- **ECE Core:** MATLAB, Simulink, Signal Processing, VLSI Design, Digital Logic Design
+- **Networking:** Cisco Packet Tracer
+- **Databases:** PostgreSQL, Firebase
 
 </td>
 <td width="50%" valign="top">
 
-**Frontend Development**
-- ⚛️ React, TypeScript, JavaScript (ES6+)
-- 🎨 Tailwind CSS, Responsive Design
-- ⚡ Vite, npm, Webpack
-
-**AI & Machine Learning**
-- 🤖 LLaMA, GPT, prompt engineering
-- 🔍 RAG Systems, pgvector, embeddings
-- 📊 Transformers, Hugging Face, NLP
-- 🎭 Multi-Agent Systems
+**Tools and Design**
+- **Web:** HTML, CSS, React, Next.js, Django, FastAPI
+- **Data:** NumPy, Pandas, Excel
+- **Design:** Adobe Photoshop, Adobe Illustrator, Canva
+- **DevOps:** Git, GitHub Actions, Vercel, Netlify, Postman
+- **Systems:** Windows, Linux
 
 </td>
 </tr>
@@ -81,76 +104,50 @@ Experience integrating large language models into transactional systems with foc
 
 <br>
 
-## 💻 Tech Stack
+## Highlights
+
+- Dean's Award with CGPA 3.85
+- ECE Club of HSTU IT section leadership
+- Built IoT and embedded projects with Arduino and ESP32
+- Interested in VLSI, signal processing, IoT, and networking
+- Comfortable with both engineering work and AI-assisted coding
+
+<br>
+
+## Training & Certifications
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+- [CS50: Introduction to Programming with Python - Harvard University](https://certificates.cs50.io/555d892f-d4c6-49e3-9ada-4b342eb5fff2.pdf)
+- [Full-Stack Web Development (Python, Django and React) - Ostad](https://ostad.app/share/certificate/c28928-md-najib-ul-azam-mahi)
+- [LFS101: Introduction to Linux - The Linux Foundation](https://trainingportal.linuxfoundation.org/learn/certificates/introduction-to-linux-lfs101?id=fd9ab4ed-c37b-4c1c-ba73-51bfeafcc341)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
 <br>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 RAG E-Commerce Search
-Semantic product search with LLaMA 70B and vector embeddings
-
-```
-Tech: Django REST • React • PostgreSQL • pgvector
-```
-
-[🎥 Demo](https://www.youtube.com/watch?v=nmiAoFS4qHA) • [📂 Code](https://github.com/najibulazam/Organic-E-Commerce-Store-with-RAG-AI-Chatbot)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Resume Screener
-Multi-agent system for automated candidate evaluation
-
-```
-Tech: FastAPI • React • Multi-Agent AI • NLP
-```
-
-[🎥 Demo](https://www.youtube.com/watch?v=hLPt59CWvtM) • [📂 Code](https://github.com/najibulazam/AI-Powered-Resume-Screening-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗳️ AI Voting System
-Secure voting platform with real-time analytics
-
-```
-Tech: Django REST • React • JWT • LLaMA
-```
-
-[🎥 Demo](https://www.youtube.com/watch?v=aLXKEUvnah4) • [📂 Code](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=najibulazam&theme=dark&hide_border=true&background=0D1117&ring=4F46E5&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=4F46E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" alt="GitHub Streak" width="600" />
@@ -164,10 +161,8 @@ Tech: Django REST • React • JWT • LLaMA
 
 <br>
 
----
-
 <div align="center">
-  
-  **💡** *"Make it work, make it right, make it fast."* — Kent Beck
-  
+
+  *Focused on learning, building, and contributing across electronics and communication engineering.*
+
 </div>
