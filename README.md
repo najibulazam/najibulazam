@@ -2,11 +2,8 @@
 
   # Md Najib Ul Azam Mahi
 
-  <h3>Final Year ECE Student | Hardware, Embedded Systems & Technology Enthusiast</h3>
+  <h3>ECE Final Year Student at HSTU | VLSI • Signal Processing • Applied ML</h3>
 
-  <p>
-    Building across electronics, embedded systems, networking, and practical software tools.
-  </p>
 
   <p>
     <a href="https://www.linkedin.com/in/najibulazam/">
@@ -21,9 +18,9 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-Electronics%20%26%20Communication-2563EB?style=flat-square" alt="ECE Focus" />
-    <img src="https://img.shields.io/badge/Interest-Embedded%20Systems-F59E0B?style=flat-square" alt="Embedded Systems" />
+    <img src="https://img.shields.io/badge/Focus-Electronics%20and%20Communication%20Engineering-2563EB?style=flat-square" alt="ECE Focus" />
     <img src="https://img.shields.io/badge/Interest-VLSI%20%26%20Signals-10B981?style=flat-square" alt="VLSI and Signals" />
+    <img src="https://img.shields.io/badge/Interest-Applied%20ML-F59E0B?style=flat-square" alt="Applied ML" />
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -34,21 +31,19 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ## About Me
 
-I am a final-year Electronics and Communication Engineering student at HSTU with a strong interest in hardware, embedded systems, signal processing, VLSI, and networking. My journey started with computer hardware, motherboard troubleshooting, assembling parts, and supporting local tech problems. Over time, I expanded into programming, IoT, and practical engineering projects.
+I am a final-year Electronics and Communication Engineering student at HSTU with a strong interest in hardware, VLSI, networking, embedded systems, signal processing, and applied ML. I love working with computer hardware, motherboard troubleshooting, assembling computer parts, and supporting local tech problems I used to do in my school life. In my university I got the opportunity to learn programming, IoT, and practical engineering projects. Now I am trying to build a strong foundation in VLSI, signal processing, and applied ML and various systems.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ## Current Focus
 
-- Final-year thesis interests in VLSI, signal processing, IoT, and networking
-- Embedded development with Arduino and ESP32
+- Learning and working on various systems including VLSI, signal processing, IoT, and networking
 - Building a stronger foundation in hardware and communication systems
-- Supporting technical events, clubs, and team activities
 - Using software tools where they help engineering work move faster
 
 </td>
