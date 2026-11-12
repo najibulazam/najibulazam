@@ -27,8 +27,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
   
 ## Tech Stacks
