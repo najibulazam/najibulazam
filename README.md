@@ -2,7 +2,7 @@
 
   # Md Najib Ul Azam Mahi
 
-  <h3>ECE Final Year Student at HSTU | VLSI • Signal Processing • Applied ML</h3>
+  <h3>Applied AI Developer | Final-Year ECE @ HSTU | Python • Deep Learning • ML Pipelines</h3>
 
 
   <p>
@@ -29,105 +29,9 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-## About Me
-
-I am a final-year Electronics and Communication Engineering student at HSTU with a strong interest in hardware, VLSI, networking, embedded systems, signal processing, and applied ML. I love working with computer hardware, motherboard troubleshooting, assembling computer parts, and supporting local tech problems I used to do in my school life. In my university I got the opportunity to learn programming, IoT, and practical engineering projects. Now I am trying to build a strong foundation in VLSI, signal processing, and applied ML and various systems.
-
-</td>
-<td width="40%" valign="top">
-
-## Current Focus
-
-- Learning and working on various systems including VLSI, signal processing, IoT, and networking
-- Building a stronger foundation in hardware and communication systems
-- Using software tools where they help engineering work move faster
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Education
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-**B.Sc. (Engineering) in Electronics and Communication Engineering**  
-Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur  
-Duration: January 2023 - Present
-
-**Key Courses:** Electronics, Semiconductor Devices, VLSI Technology, Signals and Systems, Digital Signal Processing, Analog and Digital Communications, Electromagnetic Fields and Antennas, Microwave Engineering, Wireless and Optical Communications, Computer Networks, Microprocessors and Embedded Systems, Control Systems, Artificial Intelligence and Neural Networks, Machine Learning, Cryptography and Cyber Security, Web Engineering, and Database Systems.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Technical Skills**
-- **Programming:** Python, JavaScript, C, C++
-- **Embedded Systems:** Arduino, ESP32, IoT basics
-- **ECE Core:** MATLAB, Simulink, Signal Processing, VLSI Design, Digital Logic Design
-- **Networking:** Cisco Packet Tracer
-- **Databases:** PostgreSQL, Firebase
-
-</td>
-<td width="50%" valign="top">
-
-**Tools and Design**
-- **Web:** HTML, CSS, React, Next.js, Django, FastAPI
-- **Data:** NumPy, Pandas, Excel
-- **Design:** Adobe Photoshop, Adobe Illustrator, Canva
-- **DevOps:** Git, GitHub Actions, Vercel, Netlify, Postman
-- **Systems:** Windows, Linux
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Highlights
-
-- Dean's Award with CGPA 3.85
-- ECE Club of HSTU IT section leadership
-- Built IoT and embedded projects with Arduino and ESP32
-- Interested in VLSI, signal processing, IoT, and networking
-- Comfortable with both engineering work and AI-assisted coding
-
-<br>
-
-## Training & Certifications
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-- [CS50: Introduction to Programming with Python - Harvard University](https://certificates.cs50.io/555d892f-d4c6-49e3-9ada-4b342eb5fff2.pdf)
-- [Full-Stack Web Development (Python, Django and React) - Ostad](https://ostad.app/share/certificate/c28928-md-najib-ul-azam-mahi)
-- [LFS101: Introduction to Linux - The Linux Foundation](https://trainingportal.linuxfoundation.org/learn/certificates/introduction-to-linux-lfs101?id=fd9ab4ed-c37b-4c1c-ba73-51bfeafcc341)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tech Stack
-
 <div align="center">
+  
+## Tech Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
